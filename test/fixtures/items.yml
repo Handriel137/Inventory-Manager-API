@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_name: MyString
+  description: MyText
+  quantity: 1
+  rarity: MyText
+
+two:
+  item_name: MyString
+  description: MyText
+  quantity: 1
+  rarity: MyText
